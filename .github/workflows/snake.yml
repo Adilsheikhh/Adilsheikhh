@@ -16,13 +16,12 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: "Adilsheikhh"
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: github-contribution-grid-snake.svg  # Save it directly in the root
 
-      - name: Push to output branch
+      - name: Push to main branch
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          git checkout -B output
-          git add -f dist/github-contribution-grid-snake.svg
-          git commit -m "Generated snake animation"
-          git push -f origin output
+          git add -f github-contribution-grid-snake.svg
+          git commit -m "Updated snake animation"
+          git push origin main

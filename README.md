@@ -38,13 +38,13 @@
 
 ## 🔗 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/adil-sheikh11/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://adilsheikh.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
-  <a href="https://twitter.com/your-handle">
+  <a href="https://x.com/ASheikh99707">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
 </p>
@@ -58,7 +58,4 @@
 
 ---
 
-## 🎵 Now Playing  
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default" alt="Spotify Now Playing">
-</p>
+

@@ -8,7 +8,7 @@
 
 ### 🐍 Contribution Graph Snake Animation
 <p align="center">
-  <img src="https://github.com/Adilsheikhh/Adilsheikhh/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://github.com/Adilsheikhh/Adilsheikhh/dist/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
 ---

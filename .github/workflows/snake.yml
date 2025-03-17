@@ -17,8 +17,8 @@ jobs:
         with:
           name: snake-animation
           path: dist/github-contribution-grid-snake.svg
-      - uses: actions/checkout@v3
-      - uses: actions/download-artifact@v3
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
         with:
           name: snake-animation
           path: dist

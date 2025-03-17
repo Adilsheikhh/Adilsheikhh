@@ -18,13 +18,11 @@ jobs:
           github_user_name: "Adilsheikhh"
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Commit and Push to Output Branch
+      - name: Push to output branch
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git checkout output
-          mkdir -p dist
-          mv dist/github-contribution-grid-snake.svg .
-          git add github-contribution-grid-snake.svg
-          git commit -m "Update snake animation"
-          git push origin output
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git checkout -B output
+          git add -f dist/github-contribution-grid-snake.svg
+          git commit -m "Generated snake animation"
+          git push -f origin output

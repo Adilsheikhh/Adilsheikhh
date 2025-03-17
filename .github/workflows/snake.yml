@@ -13,13 +13,18 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Snake Animation
-        uses: Platane/snk@v3  # Use the latest version
+        uses: Platane/snk@v3
         with:
-          github_user_name: "Adilsheikhh"  # Ensure this is your actual GitHub username
-          outputs: dist/snake.svg
+          github_user_name: "Adilsheikhh"
+          outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Commit and Push
-        uses: actions/upload-artifact@v4
-        with:
-          name: snake-animation
-          path: dist/snake.svg
+      - name: Commit and Push to Output Branch
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git checkout output
+          mkdir -p dist
+          mv dist/github-contribution-grid-snake.svg .
+          git add github-contribution-grid-snake.svg
+          git commit -m "Update snake animation"
+          git push origin output

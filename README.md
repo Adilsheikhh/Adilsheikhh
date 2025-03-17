@@ -8,7 +8,7 @@
 
 ### 🐍 Contribution Graph Snake Animation
 <p align="center">
-  <img src="https://github.com/your-username/Adilsheikhh/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://github.com/Adilsheikhh/Adilsheikhh/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
 ---
@@ -17,7 +17,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adilsheikhh&show_icons=true&theme=tokyonight" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adilsheikhh&theme=tokyonight" alt="GitHub Streak">
 </p>
 
 ---
@@ -26,4 +26,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://your-portfolio.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/your-handle)
-

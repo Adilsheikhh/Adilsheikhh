@@ -1,8 +1,8 @@
-name: Generate Snake Animation
+name: Generate Car Animation 🚗
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -12,16 +12,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Snake Animation
+      - name: Generate Snake Animation (Pretend Car 😄)
         uses: Platane/snk@v3
         with:
           github_user_name: "Adilsheikhh"
-          outputs: github-contribution-grid-snake.svg  # Save it directly in the root
+          outputs: github-contribution-grid-snake.svg
 
       - name: Push to main branch
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add -f github-contribution-grid-snake.svg
-          git commit -m "Updated snake animation"
+          git commit -m "Updated car animation (still a snake 😂)"
           git push origin main

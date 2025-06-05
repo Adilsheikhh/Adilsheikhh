@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm <span style="color:#36BCF7;">Adil Sheikh</span> 🇮🇳 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Building+Awesome+Projects;Always+Learning+New+Tech" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Awesome+Projects;Always+Learning+New+Tech" alt="Typing SVG">
 </p>
 
 ---

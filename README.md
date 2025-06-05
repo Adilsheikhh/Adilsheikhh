@@ -9,7 +9,6 @@
 ## 🚀 About Me  
 🔹 **Passionate Web Developer** from **India 🇮🇳**, specializing in **MERN Stack**  
 🔹 Constantly **exploring & mastering** new **technologies & frameworks**  
-🔹 **Open-source enthusiast**, contributing to impactful projects  
 🔹 Love **problem-solving** & participating in **coding challenges**  
 
 ---
